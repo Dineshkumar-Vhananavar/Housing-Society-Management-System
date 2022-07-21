@@ -1,0 +1,2 @@
+# Housing-Society-Management-System
+This system is used to manage the day-to-day activities of any housing society. To overcome the problem of losing data of society members in (society name)we are going to develop the Housing Society Management System. This system reduces the human efforts it also reduce the time and efforts for manual communication in society. So, due to this we get whole data of each member , activities , of the societies in one system or in one platform.
